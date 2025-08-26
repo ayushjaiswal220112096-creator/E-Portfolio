@@ -10,32 +10,34 @@
 
     {
       "date": "11/10/2022",
-      "title": "VIDEO HUB",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-video-app-eight.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      "title": "Recipies From Frige",
+      "description": "No more Hassle in Searching For what to cook with what's in fridge! A simple Web application for finding Recipies that can be made with available ingredients",
+      "url": "https://recipiesfromfridge.onrender.com",
+      "imgSrc": "https://tse2.mm.bing.net/th/id/OIP.4ihPWq0yuERvxEfGSQglnwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "date": "15/10/2022",
-      "title": "XCrypto",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-crypto-app-pi.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      "title": "University Management System",
+      "description": "A Full Stack University management System made in Core java. Which is used to perform the daily management tasks of a university. As Well as acts as an ERP system for Students. MySql used for Database",
+      "url": "https://github.com/ayushjaiswal220112096-creator/University-Management-System-Java",
+      "imgSrc": "https://images.shiksha.com/mediadata/images/1614001612php31YHFe.jpeg"
     },
 
     {
       "date": "17/10/2022",
-      "title": "REACT CART",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-cart-eosin.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      "title": "Nano OS",
+      "description": "A bootable shell based Operating System with File System Functionalaties and upto 10 file system commands. Used for Educational purposes. Can be booted From minix in ubuntu or in an idle pc via pendrive. Has its own bootloader and kernel.",
+      "url": "https://github.com/ayushjaiswal220112096-creator/NanoOs",
+      "imgSrc": "https://cdn.hswstatic.com/gif/computer-operating-sytem.jpg"
     },
+    
     {
-      "date": "20/10/2022",
-      "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      "date": "21/10/2022",
+      "title": "Notes Application",
+      "description": "User Friendly Mobile Application used to Store Notes For Students, Demonstration UI/UX principles and CRUD operations in Firebase Database, Users can Save,Search, Delete, pin, filter their Comments.",
+      "url": "https://github.com/ayushjaiswal220112096-creator/TheNotesApp",
+      "imgSrc": "https://clickup.com/blog/wp-content/uploads/2020/01/note-taking.png"
     }
+
   ]
 }
