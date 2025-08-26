@@ -6,7 +6,7 @@ const Header = ({menuOpen, setMenuOpen}) => {
 
     <>
     <nav>
-        <NavContent/>
+        <NavContent setMenuOpen={setMenuOpen}/>
         
     </nav>
     <button className='navBtn'  onClick={()=>{setMenuOpen(!menuOpen)}}>
