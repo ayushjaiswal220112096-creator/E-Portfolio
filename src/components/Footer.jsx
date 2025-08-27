@@ -17,7 +17,7 @@ const Footer = () => {
         <aside>
             <h2>Social Media</h2>
             <article>
-                <a href=""><AiFillInstagram/></a>
+                <a href="https://www.instagram.com/_ayuzzz?igsh=NGZxaWtyNTVzcmdi"><AiFillInstagram/></a>
             </article>
             <article>
                 <a href="https://www.linkedin.com/in/ayush-jaiswal-a5b71a2ab/"><AiFillLinkedin/></a>
